@@ -1,0 +1,51 @@
+ID,LINK_REPOSITORIO,ID_ALUNO_FK,ID_TURMA_FK,CONCEITO,ID_MODULO_FK
+1,github.com/amadas,1,17,Quase la,1
+2,github.com/ana_braga,2,17,Pronto,1
+3,github.com/mastolfo,3,17,Provou seu diferencial,2
+4,github.com/babi_c,4,17,mais que pronto,1
+5,github.com/cassiassaro,5,17,Ainda nao esta pronto,4
+6,github.com/daniel_rodrigo,6,17,mais que pronto,1
+7,github.com/esmeraldA,7,17,mais que pronto,1
+8,github.com/frodrigues,8,17,Ainda nao esta pronto,3
+9,github.com/fausto_faizao,9,17,mais que pronto,4
+10,github.com/guildaguedes,10,17,mais que pronto,5
+11,github.com/Herminia_F,11,17,Ainda nao esta pronto,3
+12,github.com/ignacioFaria,12,17,mais que pronto,1
+13,github.com/jussaram,13,17,Ainda nao esta pronto,1
+14,github.com/kleison_carlos,14,17,mais que pronto,3
+15,github.com/lalavinia,15,17,Quase la,3
+16,github.com/lalalaura,16,17,Pronto,2
+17,github.com/donaclotilde,17,17,mais que pronto,1
+18,github.com/clodoaldo_c,18,17,Provou seu diferencial,1
+19,github.com/getulio64,19,17,Pronto,4
+20,github.com/kubschekj,20,17,Pronto,1
+21,github.com/wachito,21,17,Quase la,5
+22,github.com/pendureQuadros,22,17,Pronto,5
+23,github.com/Collor,23,17,mais que pronto,1
+24,github.com/epitacio_titas,24,17,Ainda nao esta pronto,3
+25,github.com/cafequentin,25,18,Pronto,1
+26,github.com/joaoGoulart,26,18,Provou seu diferencial,1
+27,github.com/tancredofrio,27,18,mais que pronto,5
+28,github.com/sarney,28,18,mais que pronto,5
+29,github.com/ItamarFranco,29,18,Ainda nao esta pronto,2
+30,github.com/cardosoF,30,18,mais que pronto,2
+31,github.com/lula13,31,18,mais que pronto,1
+32,github.com/dilminha,32,18,mais que pronto,1
+33,github.com/gasparDutra,33,18,Pronto,1
+34,github.com/tarsila,34,18,Provou seu diferencial,4
+35,github.com/clariceLis,35,18,mais que pronto,4
+36,github.com/lygiaTelles,36,18,Ainda nao esta pronto,5
+37,github.com/elisnocampo,37,18,mais que pronto,1
+38,github.com/elzamulherdofimdomundo,38,18,Pronto,1
+39,github.com/cassiaEller,39,18,mais que pronto,1
+40,github.com/lud_Oliveira,40,18,Ainda nao esta pronto,1
+41,github.com/Anitta,41,18,mais que pronto,1
+42,github.com/iza,42,18,Quase la,2
+43,github.com/bethania,43,18,Pronto,1
+44,github.com/liniker,44,18,Provou seu diferencial,4
+45,github.com/mariFigueiredo,45,18,Pronto,1
+46,github.com/leilalez,46,18,Provou seu diferencial,5
+47,github.com/conceicaoEva,47,18,Quase la,5
+48,github.com/aninhaCesar,48,18,Pronto,1
+49,github.com/firminareis,49,18,Ainda nao esta pronto,3
+50,github.com/FranKahlo,50,18,Provou seu diferencial,2
